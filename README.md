@@ -1,6 +1,6 @@
 # Scroll
 
-## Main Page - ### in Full Screen
+## Main Page  (in Full Screen)
 ![](screenshots/ss1.png)
 
 ## Scroling down
